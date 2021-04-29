@@ -9,11 +9,14 @@ function renderLicenseBadge(license) {
     break;
     case '...Input other later': 'Insert your badge here';
     break;
-  }
-}
+  };
+};
+
+renderLicenseBadge();
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
+  console.log(license);
   return `# <${answers.project}>
 
   ## Description

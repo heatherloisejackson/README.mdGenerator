@@ -72,9 +72,6 @@ const questions = [
   },
 ];
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
 // Function that initializes app
 const init = () => {
   inquirer
@@ -86,7 +83,3 @@ const init = () => {
 
 // Function call to initialize app
 init();
-
-const generateMarkdown = (answers) => {
-  return
-};
