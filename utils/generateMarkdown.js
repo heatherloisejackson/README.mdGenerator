@@ -14,10 +14,11 @@ function renderLicenseBadge(license) {
 
 renderLicenseBadge();
 
-// TODO: Create a function to generate markdown for README
+// Function that generates markdown for README
 function generateMarkdown(answers) {
+  let license = answers.license;
   console.log(license);
-  return `# <${answers.project}>
+  return `# ${answers.project}
 
   ## Description
   ${answers.description}
@@ -40,7 +41,7 @@ function generateMarkdown(answers) {
   ${answers.credits}
 
   ## License
-  renderLicenseBadge()
+  ${renderLicenseBadge(license)}
  
   ## How to Contribute
   ${answers.contributing}
