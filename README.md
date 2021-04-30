@@ -1,7 +1,7 @@
-# <name>
+# ProfREADMEGen
 
   ## Description
-  descrip
+  this is the short description of my professional read me generator
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,19 +12,19 @@
   - [Tests](#tests)
 
   ## Installation
-  install  
+  install inquirer  
   
   ## Usage
-  nothing
+  use in your terminal
   
   ## Credits
-  everyone
+  me and only me
 
   ## License
   undefined
  
   ## How to Contribute
-  eberthing
+  message me on github
 
   ## Tests
-  test
+  run test
