@@ -29,7 +29,7 @@ function generateMarkdown(answers) {
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [How to Contribute](#howtocontribute)
+  - [How to Contribute](#contribute)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -45,7 +45,7 @@ function generateMarkdown(answers) {
   ## License
   ${badge}
  
-  ## How to Contribute
+  ## How to Contribute<a name="contribute"></a>
   ${answers.contributing}
 
   ## Tests
@@ -53,8 +53,8 @@ function generateMarkdown(answers) {
 
   ## Questions
   If you have any questions about this project or repository, contact me using one of the following methods:
-    - Github: [${answers.name}](https://github.com/${answers.username})
-    - Email: [${answers.email}](mailto:${answers.email}?subject=Inquiry%20about%20${answers.project})
+  - Github: [${answers.name}](https://github.com/${answers.username})
+  - Email: [${answers.email}](mailto:${answers.email}?subject=Inquiry%20about%20${answers.project})
 `;
 }
 
