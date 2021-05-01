@@ -1,7 +1,7 @@
 # Professional README.md Generator
 
   ## Description
-  decript
+  This application allows any user to quickly generate a good, professional README.md file for their projects using the command line in terminal.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,19 +16,19 @@
     npm install
   
   ## Usage
-  
+  After successfully generating the README.md file, be sure to look it over and add any additional sections.
   
   ## Credits
-  Github, Node.js
+  2021 Heather Jackson copyright, Credit to GitHub, Node.js, and the Inquiry Library.
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
   ## How to Contribute
-  contribute!
+  Contributions are welcome. Contact me using the information below.
 
   ## Tests
-  npm test
+    npm test
 
   ## Questions
   If you have any questions about this project or repository, contact me using one of the following methods:
