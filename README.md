@@ -8,7 +8,7 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [How to Contribute](#howtocontribute)
+  - [How to Contribute](#contribute)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -24,7 +24,7 @@
   ## License
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  
-  ## How to Contribute
+  ## How to Contribute<a name=contribute></a>
   
 
   ## Tests
@@ -32,5 +32,5 @@
 
   ## Questions
   If you have any questions about this project or repository, contact me using one of the following methods:
-    - Github: [Heather Jackson](https://github.com/heatherloisejackson)
-    - Email: [hmjackson917@gmail.com](mailto:hmjackson917@gmail.com?subject=Inquiry%20about%20)
+  - Github: [Heather Jackson](https://github.com/heatherloisejackson)
+  - Email: [hmjackson917@gmail.com](mailto:hmjackson917@gmail.com?subject=Inquiry%20about%20)
