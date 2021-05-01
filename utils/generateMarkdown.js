@@ -49,7 +49,7 @@ function generateMarkdown(answers) {
   ${answers.contributing}
 
   ## Tests
-  ${answers.tests}
+    ${answers.tests}
 
   ## Questions
   If you have any questions about this project or repository, contact me using one of the following methods:
