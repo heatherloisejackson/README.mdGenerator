@@ -19,7 +19,7 @@
   After successfully generating the README.md file, be sure to look it over and add any additional sections.
   
   ## Credits
-  2021 Heather Jackson copyright, Credit to GitHub, Node.js, and the Inquiry Library.
+  Copyright 2021 Heather Jackson || Credit to GitHub, Node.js, and the Inquirer npm library.
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
